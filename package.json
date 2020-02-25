@@ -1,0 +1,21 @@
+{
+  "name": "doe-sangue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ws": "3.3.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "gatsby-plugin-typography": "^2.3.22",
+    "nodemon": "^2.0.2",
+    "pg": "^7.18.2"
+  }
+}
